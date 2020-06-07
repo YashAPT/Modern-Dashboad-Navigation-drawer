@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/categories_ic"
+            android:title="Categories" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/nav_groups"
+            android:icon="@drawable/ic_group"
+            android:title="Groups" />
+
+        <item
+            android:id="@+id/nav_social_media"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+
+    </group>
+
+
+
+
+        <item android:title="Modern UI" >
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_headset"
+                android:title="Get Help" />
+
+            <item
+                android:id="@+id/nav_contribute"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+
+
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/ic_help"
+                android:title="About Us" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Log Out" />
+
+            </group>
+
+        </menu>
+        </item>
+
+
+
+
+
+</menu>

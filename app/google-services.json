@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070482457142",
+    "firebase_url": "https://chatpro-e303e.firebaseio.com",
+    "project_id": "chatpro-e303e",
+    "storage_bucket": "chatpro-e303e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070482457142:android:bbfcea90d999114e9ace97",
+        "android_client_info": {
+          "package_name": "com.yash.chatpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070482457142-t95freld44ih1967unhhhdff1fqjnhr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yash.chatpro",
+            "certificate_hash": "9fba40bb750b48011b0923422397109dc37954d7"
+          }
+        },
+        {
+          "client_id": "1070482457142-78i1s31ihr4bf1r8fj0mc4v31b8lp7do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mJC6zKwt3_JvbdvO2oTVXFmj758nscs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070482457142-78i1s31ihr4bf1r8fj0mc4v31b8lp7do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
